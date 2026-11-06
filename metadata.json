@@ -1,0 +1,8 @@
+{
+    "dimensions": 384,
+    "num_clusters": 50,
+    "num_documents": 100000,
+    "num_queries": 1000,
+    "metric": "cosine",
+    "noise_level": 0.3
+}
